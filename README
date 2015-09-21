@@ -1,0 +1,14 @@
+Trevor Bird
+---------------------------------------------
+CS 2010 Lab Assignment: Game of Craps Read Me
+---------------------------------------------
+
+---------------------
+To build:
+	$ make
+---------------------
+To run:
+	$ ./CrapsGame
+
+---------------------
+Program will prompt user with provided directions.
